@@ -1,0 +1,11 @@
+android/*
+ios/*
+Library/*
+Temp/*
+Assets/StreamingAssets/*
+Assets/Temp/data.txt
+Assets/Temp/data.txt.meta
+*.csproj
+*.sln
+*.suo
+*.user

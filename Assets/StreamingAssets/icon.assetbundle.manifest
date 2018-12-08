@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3601954871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 137a2156dda236ed50c7df290c5433b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/ProficiencyQuality/Ishuliandu-5.png
+- Assets/Logic/Icon/QualityIcon/2.png
+- Assets/Logic/Icon/QualityIcon/4.png
+- Assets/Logic/Icon/ProficiencyQuality/Ishuliandu-1.png
+- Assets/Logic/Icon/QualityIcon/1.png
+- Assets/Logic/Icon/ProficiencyQuality/Ishuliandu-4.png
+- Assets/Logic/M078/Package/Texture/6.png
+- Assets/Logic/Icon/QualityIcon/3.png
+- Assets/Logic/Icon/QualityIcon/5.png
+- Assets/Logic/Icon/ProficiencyQuality/Ishuliandu-3.png
+- Assets/Logic/Icon/ProficiencyQuality/Ishuliandu-2.png
+Dependencies: []

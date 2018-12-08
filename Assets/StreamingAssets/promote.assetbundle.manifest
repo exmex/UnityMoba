@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 3528731792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 749f1dadac030affa68a6769a881c4fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ebca4b3685bd1cccc08b584b975c22d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M108/PromotePanel.prefab
+Dependencies:
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/playerskillicon.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/bg.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/fonts.assetbundle

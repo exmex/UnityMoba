@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 1999fb24dc09b7f489843568ff5baab9
+timeCreated: 1461849956
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip
+    100002: Body
+    100004: Chest
+    100006: Chest01
+    100008: Face
+    100010: FXAnchor01
+    100012: FXAnchor02
+    100014: FXAnchor03
+    100016: Gun01
+    100018: Gun02
+    100020: Gun03
+    100022: Gun04
+    100024: Hair
+    100026: Hat
+    100028: Head
+    100030: Hips
+    100032: Hips 1
+    100034: L Finger0
+    100036: L Finger01
+    100038: L Finger1
+    100040: L Finger11
+    100042: L Foot
+    100044: L Hand
+    100046: L Lower Arm
+    100048: L Lower Leg
+    100050: L Shoulder
+    100052: L Toes
+    100054: L Upper Arm
+    100056: L Upper Leg
+    100058: Leg
+    100060: Neck
+    100062: Pweapon01
+    100064: R Finger0
+    100066: R Finger01
+    100068: R Finger1
+    100070: R Finger11
+    100072: R Foot
+    100074: R Hand
+    100076: R Lower Arm
+    100078: R Lower Leg
+    100080: R Shoulder
+    100082: R Toes
+    100084: R Upper Arm
+    100086: R Upper Leg
+    100088: //RootNode
+    100090: S Weapon Anchor
+    100092: Shoes
+    100094: Spine
+    100096: Sweapon
+    400000: Bip
+    400002: Body
+    400004: Chest
+    400006: Chest01
+    400008: Face
+    400010: FXAnchor01
+    400012: FXAnchor02
+    400014: FXAnchor03
+    400016: Gun01
+    400018: Gun02
+    400020: Gun03
+    400022: Gun04
+    400024: Hair
+    400026: Hat
+    400028: Head
+    400030: Hips
+    400032: Hips 1
+    400034: L Finger0
+    400036: L Finger01
+    400038: L Finger1
+    400040: L Finger11
+    400042: L Foot
+    400044: L Hand
+    400046: L Lower Arm
+    400048: L Lower Leg
+    400050: L Shoulder
+    400052: L Toes
+    400054: L Upper Arm
+    400056: L Upper Leg
+    400058: Leg
+    400060: Neck
+    400062: Pweapon01
+    400064: R Finger0
+    400066: R Finger01
+    400068: R Finger1
+    400070: R Finger11
+    400072: R Foot
+    400074: R Hand
+    400076: R Lower Arm
+    400078: R Lower Leg
+    400080: R Shoulder
+    400082: R Toes
+    400084: R Upper Arm
+    400086: R Upper Leg
+    400088: //RootNode
+    400090: S Weapon Anchor
+    400092: Shoes
+    400094: Spine
+    400096: Sweapon
+    4300000: Leg
+    4300002: Hair
+    4300004: Face
+    4300006: Shoes
+    4300008: Sweapon
+    4300010: Hat
+    4300012: Pweapon01
+    4300014: Body
+    9500000: //RootNode
+    13700000: Body
+    13700002: Face
+    13700004: Hair
+    13700006: Hat
+    13700008: Leg
+    13700010: Pweapon01
+    13700012: Shoes
+    13700014: Sweapon
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

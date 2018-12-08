@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 292233575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e69d9854f0ce9f7f33829614d657a982
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6a9e4149af2e9e0805fc21f5a860a6c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fonts/DS-DIGIB.TTF
+- Assets/Fonts/MF LiHei.OTF
+- Assets/Fonts/FZTTCHJT.TTF
+- Assets/Fonts/MF JinHei.OTF
+Dependencies: []

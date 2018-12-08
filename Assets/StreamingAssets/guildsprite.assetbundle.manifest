@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 3907118766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d1c88fc0d2f864cb37e609d6ec13146
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M122/Guild/Texture/12.png
+- Assets/Logic/M122/Guild/Texture/111.png
+- Assets/Logic/M122/Guild/Texture/3331.png
+- Assets/Logic/M122/Guild/Texture/117.png
+- "Assets/Logic/M122/Guild/Texture/\u84DD.PNG"
+- Assets/Logic/M122/Guild/Texture/114.png
+- Assets/Logic/M122/Guild/Texture/23.png
+- "Assets/Logic/M122/Guild/Texture/2_0001_\u56FE\u5C42-3.png"
+- Assets/Logic/M122/Guild/Texture/1123.png
+- "Assets/Logic/M122/Guild/Texture/M078-0001_\u4F53\u9A8C 1.png"
+- "Assets/Logic/M122/Guild/Texture/\u5E95\u677F3.png"
+- Assets/Logic/M122/Guild/Texture/120.png
+- "Assets/Logic/M122/Guild/Texture/\u5E95\u677F4.png"
+- "Assets/Logic/M122/Guild/Texture/\u5E95\u677F2.png"
+- Assets/Logic/M122/Guild/Texture/13.png
+- Assets/Logic/M122/Guild/Texture/2455.png
+- Assets/Logic/M122/Guild/Texture/12345.png
+- Assets/Logic/M122/Guild/Texture/113.png
+- Assets/Logic/M122/Guild/Texture/M122-NumberBg.png
+- "Assets/Logic/M122/Guild/Texture/\u552E\u5B8C.png"
+- "Assets/Logic/M122/Guild/Texture/\u5934\u50CF\u6846 1.png"
+- Assets/Logic/M122/Guild/Texture/1.png
+- "Assets/Logic/M122/Guild/Texture/2_0002_\u56FE\u5C42-2.png"
+- "Assets/Logic/M122/Guild/Texture/_0017_\u63D0\u793A2.png"
+- "Assets/Logic/M122/Guild/Texture/\u8D2D\u4E70\u91D1\u5E01\u70B9\u5238\u5E95\u677F.png"
+- Assets/Logic/M122/Guild/Texture/4.png
+- "Assets/Logic/M122/Guild/Texture/\u5206\u5272\u7EBF 1.png"
+- Assets/Logic/M122/Guild/Texture/22.png
+- Assets/Logic/M122/Guild/Texture/121.png
+- Assets/Logic/M122/Guild/Texture/119.png
+- "Assets/Logic/M122/Guild/Texture/M078-0000_\u4F53\u9A8C 1.png"
+- "Assets/Logic/M122/Guild/Texture/\u7B7E\u5230\u6210\u529F.png"
+- "Assets/Logic/M122/Guild/Texture/2_0000_\u56FE\u5C42-4.png"
+- Assets/Logic/M122/Guild/Texture/3.png
+- Assets/Logic/M122/Guild/Texture/125.png
+- Assets/Logic/M122/Guild/Texture/28.png
+- Assets/Logic/M122/Guild/Texture/1177.png
+- Assets/Logic/M122/Guild/Texture/NoticeBar.png
+- "Assets/Logic/M122/Guild/Texture/M047-\u906E\u7F69 2.png"
+- "Assets/Logic/M122/Guild/Texture/\u84DD\u8272\u5E95\u677F.png"
+- "Assets/Logic/M122/Guild/Texture/4_0001_\u9EC4\u8272.png"
+- Assets/Logic/M122/Guild/Texture/122.png
+- Assets/Logic/M122/Guild/Texture/118..png
+- Assets/Logic/M122/Guild/Texture/44.png
+- Assets/Logic/M122/Guild/Texture/5.png
+- Assets/Logic/M122/Guild/Texture/11.png
+- Assets/Logic/M122/Guild/Texture/1122.png
+- Assets/Logic/M122/Guild/Texture/112.png
+- "Assets/Logic/M122/Guild/Texture/\u89C4\u5219\u5730\u677F.png"
+- Assets/Logic/M122/Guild/Texture/SelectArea.png
+- "Assets/Logic/M122/Guild/Texture/M042-\u641C\u7D22 1.png"
+- "Assets/Logic/M122/Guild/Texture/\u6392\u884C\u699C\u5E95\u677F.png"
+- Assets/Logic/M122/Guild/Texture/116.png
+- "Assets/Logic/M122/Guild/Texture/\u6392\u884C\u73A9\u5BB6\u5934\u50CF\u6846.png"
+- Assets/Logic/M122/Guild/Texture/9.png
+- Assets/Logic/M122/Guild/Texture/NotSelectArea.png
+- Assets/Logic/M122/Guild/Texture/6.png
+- "Assets/Logic/M122/Guild/Texture/M047-\u9694\u65AD 1.png"
+- Assets/Logic/M122/Guild/Texture/124.png
+- "Assets/Logic/M122/Guild/Texture/\u6D3B\u8DC3\u5EA6.png"
+- Assets/Logic/M122/Guild/Texture/8.png
+- Assets/Logic/M122/Guild/Texture/7.png
+- Assets/Logic/M122/Guild/Texture/2.png
+- "Assets/Logic/M122/Guild/Texture/\u6218\u961F\u5E01.png"
+- Assets/Logic/M122/Guild/Texture/123.png
+- Assets/Logic/M122/Guild/Texture/29.png
+- Assets/Logic/M122/Guild/Texture/1191.png
+- Assets/Logic/M122/Guild/Texture/115.png
+- Assets/Logic/M122/Guild/Texture/333.png
+Dependencies: []

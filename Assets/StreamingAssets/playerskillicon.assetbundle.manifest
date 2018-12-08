@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3551830183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8d6b61c2eaab1039d2e6b0d842075f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/PlayerSkillIcon/I20300090.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300020.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300040.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20402410.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300011.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300050.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20402510.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300070.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300080.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300030.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300100.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300010.png
+- Assets/Logic/Icon/PlayerSkillIcon/I20300060.png
+Dependencies: []

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3111133013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 354dd73a6605dee7c5e69a6c18bcdf46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 358f5115b5b2da9f1410a2ee99790fd1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M069/BreakRune/BreakRunePanel.prefab
+Dependencies:
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/pagetext.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/fonts.assetbundle

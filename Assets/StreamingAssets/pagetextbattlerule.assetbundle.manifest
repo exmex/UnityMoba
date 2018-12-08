@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1653763152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd4e4e31182cc2feedc72184fd760341
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 90f9943ba32cd1ec07f2cf168f744915
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/PageTextBattleRule/PageTextBattleRulePanel.prefab
+Dependencies: []

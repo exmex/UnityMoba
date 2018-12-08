@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 55839898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36f918f05c2dbb81ccfebe8fe78a6005
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/RoleIcon/I11000002.png
+- Assets/Logic/Icon/RoleIcon/I11000101.png
+- Assets/Logic/Icon/RoleIcon/I11000303.png
+- Assets/Logic/Icon/RoleIcon/I11001401.png
+- Assets/Logic/Icon/RoleIcon/I11000401.png
+- Assets/Logic/Icon/RoleIcon/I11000501.png
+- Assets/Logic/Icon/RoleIcon/I11000201.png
+- Assets/Logic/Icon/RoleIcon/I11000301.png
+- Assets/Logic/Icon/RoleIcon/I11000001.png
+- Assets/Logic/Icon/RoleIcon/I11000103.png
+- Assets/Logic/Icon/RoleIcon/I11000302.png
+- Assets/Logic/Icon/RoleIcon/I11001101.png
+- Assets/Logic/Icon/RoleIcon/I11000102.png
+- Assets/Logic/Icon/RoleIcon/I11000402.png
+- Assets/Logic/Icon/RoleIcon/I11000202.png
+Dependencies: []

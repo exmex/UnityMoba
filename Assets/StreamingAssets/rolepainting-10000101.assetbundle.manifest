@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 185157763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c56e85714441438f9fe596896030d8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/Pic/50000030/post11001101.png
+- Assets/Logic/Icon/Pic/50000030/post11000101.png
+Dependencies: []

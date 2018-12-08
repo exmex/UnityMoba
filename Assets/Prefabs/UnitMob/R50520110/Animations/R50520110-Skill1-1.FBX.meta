@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 97e2e36c1c92aef4fbf8fa74fe22713f
+timeCreated: 1462532579
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip
+    100002: Head
+    100004: Hips
+    100006: L Foot
+    100008: L Hand
+    100010: L HorseLink
+    100012: L Lower Arm
+    100014: L Lower Leg
+    100016: L Shoulder
+    100018: L Upper Arm
+    100020: L Upper Leg
+    100022: L Wing01
+    100024: L Wing02
+    100026: L Wing03
+    100028: L Wing04
+    100030: Mouth
+    100032: Neck01
+    100034: Neck02
+    100036: R Foot
+    100038: R Hand
+    100040: R HorseLink
+    100042: R Lower Arm
+    100044: R Lower Leg
+    100046: R Shoulder
+    100048: R Upper Arm
+    100050: R Upper Leg
+    100052: R Wing01
+    100054: R Wing02
+    100056: R Wing03
+    100058: R Wing04
+    100060: //RootNode
+    100062: Spine
+    100064: Tail01
+    100066: Tail02
+    100068: Tail03
+    100070: Tail04
+    400000: Bip
+    400002: Head
+    400004: Hips
+    400006: L Foot
+    400008: L Hand
+    400010: L HorseLink
+    400012: L Lower Arm
+    400014: L Lower Leg
+    400016: L Shoulder
+    400018: L Upper Arm
+    400020: L Upper Leg
+    400022: L Wing01
+    400024: L Wing02
+    400026: L Wing03
+    400028: L Wing04
+    400030: Mouth
+    400032: Neck01
+    400034: Neck02
+    400036: R Foot
+    400038: R Hand
+    400040: R HorseLink
+    400042: R Lower Arm
+    400044: R Lower Leg
+    400046: R Shoulder
+    400048: R Upper Arm
+    400050: R Upper Leg
+    400052: R Wing01
+    400054: R Wing02
+    400056: R Wing03
+    400058: R Wing04
+    400060: //RootNode
+    400062: Spine
+    400064: Tail01
+    400066: Tail02
+    400068: Tail03
+    400070: Tail04
+    7400000: Take 001
+    7400002: R50520110-Skill1-1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: Root
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: R50520110-Skill1-1
+      takeName: 
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

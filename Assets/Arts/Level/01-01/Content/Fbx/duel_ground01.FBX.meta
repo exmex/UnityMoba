@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 43c638022f22cc4448af25a9255da570
+timeCreated: 1445414524
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: duel_birdge01
+    100002: //RootNode
+    100004: Level01-caocong01
+    100006: Level01-caocong01 1
+    100008: Level01-caocong01 10
+    100010: Level01-caocong01 11
+    100012: Level01-caocong01 12
+    100014: Level01-caocong01 13
+    100016: Level01-caocong01 14
+    100018: Level01-caocong01 15
+    100020: Level01-caocong01 16
+    100022: Level01-caocong01 17
+    100024: Level01-caocong01 18
+    100026: Level01-caocong01 19
+    100028: Level01-caocong01 2
+    100030: Level01-caocong01 20
+    100032: Level01-caocong01 21
+    100034: Level01-caocong01 22
+    100036: Level01-caocong01 23
+    100038: Level01-caocong01 24
+    100040: Level01-caocong01 25
+    100042: Level01-caocong01 26
+    100044: Level01-caocong01 27
+    100046: Level01-caocong01 28
+    100048: Level01-caocong01 29
+    100050: Level01-caocong01 3
+    100052: Level01-caocong01 30
+    100054: Level01-caocong01 31
+    100056: Level01-caocong01 32
+    100058: Level01-caocong01 33
+    100060: Level01-caocong01 34
+    100062: Level01-caocong01 35
+    100064: Level01-caocong01 36
+    100066: Level01-caocong01 37
+    100068: Level01-caocong01 38
+    100070: Level01-caocong01 4
+    100072: Level01-caocong01 5
+    100074: Level01-caocong01 6
+    100076: Level01-caocong01 7
+    100078: Level01-caocong01 8
+    100080: Level01-caocong01 9
+    100082: Level01-grass01
+    100084: Level01-grass01 1
+    100086: Level01-ground01
+    100088: Level01-ground02
+    100090: Level01-ground03
+    100092: Level01-langan01
+    100094: Level01-langan01 1
+    100096: Level01-langan01 2
+    100098: Level01-langan01 3
+    100100: Level01-langan01 4
+    100102: Level01-langan01 5
+    100104: Level01-langan01 6
+    100106: Level01-langan01 7
+    100108: Level01-langan02
+    100110: Level01-langan02 1
+    100112: Level01-suishi01
+    100114: Level01-suishi01 1
+    100116: Level01-taijie01
+    100118: Level01-tree01
+    100120: Level01-tree01 1
+    100122: Level01-tree01 2
+    100124: Level01-tree01 3
+    100126: Level01-tree01 4
+    100128: Level01-tree01 5
+    100130: Level01-tree01 6
+    100132: Level01-tree01 7
+    100134: Level01-tree02
+    100136: Level01-tree02 1
+    100138: Level01-tree02 2
+    100140: Level01-tree02 3
+    100142: Level01-tree02 4
+    100144: Level01-tree02 5
+    100146: Level01-tree02 6
+    100148: Level01-tree02 7
+    100150: Level01-tree02 8
+    100152: Level01-tree03
+    100154: Level01-tree03 1
+    100156: Level01-tree03 10
+    100158: Level01-tree03 11
+    100160: Level01-tree03 12
+    100162: Level01-tree03 13
+    100164: Level01-tree03 14
+    100166: Level01-tree03 15
+    100168: Level01-tree03 2
+    100170: Level01-tree03 3
+    100172: Level01-tree03 4
+    100174: Level01-tree03 5
+    100176: Level01-tree03 6
+    100178: Level01-tree03 7
+    100180: Level01-tree03 8
+    100182: Level01-tree03 9
+    100184: Level01-tree04
+    100186: Level01-tree04 1
+    100188: Level01-tree04 2
+    100190: Level01-tree04 3
+    100192: Level01-tree04 4
+    100194: Level01-tree04 5
+    100196: Level01-tree04 6
+    100198: Level01-zacao01
+    100200: Level01-zacao01 1
+    100202: Level01-zacao01 2
+    100204: Level01-zacao01 3
+    100206: Level01-zacao02
+    100208: Level01-zacao02 1
+    100210: Level01-zacao02 2
+    100212: Level01-zacao02 3
+    100214: Level01-zacao02 4
+    100216: Level01-zacao03
+    100218: Level01-zacao03 1
+    100220: Level01-zacao03 2
+    100222: Level01-zacao04
+    100224: Level01-zhalan01
+    100226: Level01-zhalan01 1
+    100228: Level01-zhalan02
+    100230: Level01-zhalan02 1
+    100232: Level01-zhalan02 2
+    100234: Level01-zhalan02 3
+    100236: Deftower01
+    100238: Deftower02
+    100240: Deftower03
+    100242: duel_birdge
+    100244: duel_dizhuan01
+    100246: duel_shanti01
+    100248: duel_shikuai01
+    100250: duel_shitai
+    100252: duel_shizhu01
+    100254: duel_spring
+    100256: duel_spring 1
+    100258: Group01
+    100260: Gun
+    100262: Level01-caocong
+    100264: Particle View 01
+    100266: Pla_cao01
+    100268: Pla_cao02
+    100270: Pla_cao03
+    100272: Pla_cao04
+    100274: Pla_cao05
+    100276: Pla_hua01
+    100278: Pla_hua02
+    100280: Pla_hua03
+    100282: Pla_hua04
+    100284: Pla_hua05
+    100286: Pla_hua06
+    100288: Pla_hua_b
+    100290: Pla_hua_r
+    100292: Pla_huluobo
+    100294: Pla_mogu01
+    100296: Pla_mogu02
+    100298: Pla_pugongying01
+    100300: Pla_pugongying02
+    100302: Pla_siyecao
+    100304: Pla_taiyanghua
+    100306: Pla_xiaomai01
+    100308: Pla_xiaomai02
+    100310: Plane02
+    100312: Plane05
+    100314: Plane06
+    100316: Plane16
+    100318: duel_bridge01
+    400000: duel_birdge01
+    400002: //RootNode
+    400004: Level01-caocong01
+    400006: Level01-caocong01 1
+    400008: Level01-caocong01 10
+    400010: Level01-caocong01 11
+    400012: Level01-caocong01 12
+    400014: Level01-caocong01 13
+    400016: Level01-caocong01 14
+    400018: Level01-caocong01 15
+    400020: Level01-caocong01 16
+    400022: Level01-caocong01 17
+    400024: Level01-caocong01 18
+    400026: Level01-caocong01 19
+    400028: Level01-caocong01 2
+    400030: Level01-caocong01 20
+    400032: Level01-caocong01 21
+    400034: Level01-caocong01 22
+    400036: Level01-caocong01 23
+    400038: Level01-caocong01 24
+    400040: Level01-caocong01 25
+    400042: Level01-caocong01 26
+    400044: Level01-caocong01 27
+    400046: Level01-caocong01 28
+    400048: Level01-caocong01 29
+    400050: Level01-caocong01 3
+    400052: Level01-caocong01 30
+    400054: Level01-caocong01 31
+    400056: Level01-caocong01 32
+    400058: Level01-caocong01 33
+    400060: Level01-caocong01 34
+    400062: Level01-caocong01 35
+    400064: Level01-caocong01 36
+    400066: Level01-caocong01 37
+    400068: Level01-caocong01 38
+    400070: Level01-caocong01 4
+    400072: Level01-caocong01 5
+    400074: Level01-caocong01 6
+    400076: Level01-caocong01 7
+    400078: Level01-caocong01 8
+    400080: Level01-caocong01 9
+    400082: Level01-grass01
+    400084: Level01-grass01 1
+    400086: Level01-ground01
+    400088: Level01-ground02
+    400090: Level01-ground03
+    400092: Level01-langan01
+    400094: Level01-langan01 1
+    400096: Level01-langan01 2
+    400098: Level01-langan01 3
+    400100: Level01-langan01 4
+    400102: Level01-langan01 5
+    400104: Level01-langan01 6
+    400106: Level01-langan01 7
+    400108: Level01-langan02
+    400110: Level01-langan02 1
+    400112: Level01-suishi01
+    400114: Level01-suishi01 1
+    400116: Level01-taijie01
+    400118: Level01-tree01
+    400120: Level01-tree01 1
+    400122: Level01-tree01 2
+    400124: Level01-tree01 3
+    400126: Level01-tree01 4
+    400128: Level01-tree01 5
+    400130: Level01-tree01 6
+    400132: Level01-tree01 7
+    400134: Level01-tree02
+    400136: Level01-tree02 1
+    400138: Level01-tree02 2
+    400140: Level01-tree02 3
+    400142: Level01-tree02 4
+    400144: Level01-tree02 5
+    400146: Level01-tree02 6
+    400148: Level01-tree02 7
+    400150: Level01-tree02 8
+    400152: Level01-tree03
+    400154: Level01-tree03 1
+    400156: Level01-tree03 10
+    400158: Level01-tree03 11
+    400160: Level01-tree03 12
+    400162: Level01-tree03 13
+    400164: Level01-tree03 14
+    400166: Level01-tree03 15
+    400168: Level01-tree03 2
+    400170: Level01-tree03 3
+    400172: Level01-tree03 4
+    400174: Level01-tree03 5
+    400176: Level01-tree03 6
+    400178: Level01-tree03 7
+    400180: Level01-tree03 8
+    400182: Level01-tree03 9
+    400184: Level01-tree04
+    400186: Level01-tree04 1
+    400188: Level01-tree04 2
+    400190: Level01-tree04 3
+    400192: Level01-tree04 4
+    400194: Level01-tree04 5
+    400196: Level01-tree04 6
+    400198: Level01-zacao01
+    400200: Level01-zacao01 1
+    400202: Level01-zacao01 2
+    400204: Level01-zacao01 3
+    400206: Level01-zacao02
+    400208: Level01-zacao02 1
+    400210: Level01-zacao02 2
+    400212: Level01-zacao02 3
+    400214: Level01-zacao02 4
+    400216: Level01-zacao03
+    400218: Level01-zacao03 1
+    400220: Level01-zacao03 2
+    400222: Level01-zacao04
+    400224: Level01-zhalan01
+    400226: Level01-zhalan01 1
+    400228: Level01-zhalan02
+    400230: Level01-zhalan02 1
+    400232: Level01-zhalan02 2
+    400234: Level01-zhalan02 3
+    400236: Deftower01
+    400238: Deftower02
+    400240: Deftower03
+    400242: duel_birdge
+    400244: duel_dizhuan01
+    400246: duel_shanti01
+    400248: duel_shikuai01
+    400250: duel_shitai
+    400252: duel_shizhu01
+    400254: duel_spring
+    400256: duel_spring 1
+    400258: Group01
+    400260: Gun
+    400262: Level01-caocong
+    400264: Particle View 01
+    400266: Pla_cao01
+    400268: Pla_cao02
+    400270: Pla_cao03
+    400272: Pla_cao04
+    400274: Pla_cao05
+    400276: Pla_hua01
+    400278: Pla_hua02
+    400280: Pla_hua03
+    400282: Pla_hua04
+    400284: Pla_hua05
+    400286: Pla_hua06
+    400288: Pla_hua_b
+    400290: Pla_hua_r
+    400292: Pla_huluobo
+    400294: Pla_mogu01
+    400296: Pla_mogu02
+    400298: Pla_pugongying01
+    400300: Pla_pugongying02
+    400302: Pla_siyecao
+    400304: Pla_taiyanghua
+    400306: Pla_xiaomai01
+    400308: Pla_xiaomai02
+    400310: Plane02
+    400312: Plane05
+    400314: Plane06
+    400316: Plane16
+    400318: duel_bridge01
+    2300000: duel_birdge01
+    2300002: Level01-caocong01
+    2300004: Level01-caocong01 1
+    2300006: Level01-caocong01 10
+    2300008: Level01-caocong01 11
+    2300010: Level01-caocong01 12
+    2300012: Level01-caocong01 13
+    2300014: Level01-caocong01 14
+    2300016: Level01-caocong01 15
+    2300018: Level01-caocong01 16
+    2300020: Level01-caocong01 17
+    2300022: Level01-caocong01 18
+    2300024: Level01-caocong01 19
+    2300026: Level01-caocong01 2
+    2300028: Level01-caocong01 20
+    2300030: Level01-caocong01 21
+    2300032: Level01-caocong01 22
+    2300034: Level01-caocong01 23
+    2300036: Level01-caocong01 24
+    2300038: Level01-caocong01 25
+    2300040: Level01-caocong01 26
+    2300042: Level01-caocong01 27
+    2300044: Level01-caocong01 28
+    2300046: Level01-caocong01 29
+    2300048: Level01-caocong01 3
+    2300050: Level01-caocong01 30
+    2300052: Level01-caocong01 31
+    2300054: Level01-caocong01 32
+    2300056: Level01-caocong01 33
+    2300058: Level01-caocong01 34
+    2300060: Level01-caocong01 35
+    2300062: Level01-caocong01 36
+    2300064: Level01-caocong01 37
+    2300066: Level01-caocong01 38
+    2300068: Level01-caocong01 4
+    2300070: Level01-caocong01 5
+    2300072: Level01-caocong01 6
+    2300074: Level01-caocong01 7
+    2300076: Level01-caocong01 8
+    2300078: Level01-caocong01 9
+    2300080: Level01-grass01
+    2300082: Level01-grass01 1
+    2300084: Level01-ground01
+    2300086: Level01-ground02
+    2300088: Level01-ground03
+    2300090: Level01-langan01
+    2300092: Level01-langan01 1
+    2300094: Level01-langan01 2
+    2300096: Level01-langan01 3
+    2300098: Level01-langan01 4
+    2300100: Level01-langan01 5
+    2300102: Level01-langan01 6
+    2300104: Level01-langan01 7
+    2300106: Level01-langan02
+    2300108: Level01-langan02 1
+    2300110: Level01-suishi01
+    2300112: Level01-suishi01 1
+    2300114: Level01-taijie01
+    2300116: Level01-tree01
+    2300118: Level01-tree01 1
+    2300120: Level01-tree01 2
+    2300122: Level01-tree01 3
+    2300124: Level01-tree01 4
+    2300126: Level01-tree01 5
+    2300128: Level01-tree01 6
+    2300130: Level01-tree01 7
+    2300132: Level01-tree02
+    2300134: Level01-tree02 1
+    2300136: Level01-tree02 2
+    2300138: Level01-tree02 3
+    2300140: Level01-tree02 4
+    2300142: Level01-tree02 5
+    2300144: Level01-tree02 6
+    2300146: Level01-tree02 7
+    2300148: Level01-tree02 8
+    2300150: Level01-tree03
+    2300152: Level01-tree03 1
+    2300154: Level01-tree03 10
+    2300156: Level01-tree03 11
+    2300158: Level01-tree03 12
+    2300160: Level01-tree03 13
+    2300162: Level01-tree03 14
+    2300164: Level01-tree03 15
+    2300166: Level01-tree03 2
+    2300168: Level01-tree03 3
+    2300170: Level01-tree03 4
+    2300172: Level01-tree03 5
+    2300174: Level01-tree03 6
+    2300176: Level01-tree03 7
+    2300178: Level01-tree03 8
+    2300180: Level01-tree03 9
+    2300182: Level01-tree04
+    2300184: Level01-tree04 1
+    2300186: Level01-tree04 2
+    2300188: Level01-tree04 3
+    2300190: Level01-tree04 4
+    2300192: Level01-tree04 5
+    2300194: Level01-tree04 6
+    2300196: Level01-zacao01
+    2300198: Level01-zacao01 1
+    2300200: Level01-zacao01 2
+    2300202: Level01-zacao01 3
+    2300204: Level01-zacao02
+    2300206: Level01-zacao02 1
+    2300208: Level01-zacao02 2
+    2300210: Level01-zacao02 3
+    2300212: Level01-zacao02 4
+    2300214: Level01-zacao03
+    2300216: Level01-zacao03 1
+    2300218: Level01-zacao03 2
+    2300220: Level01-zacao04
+    2300222: Level01-zhalan01
+    2300224: Level01-zhalan01 1
+    2300226: Level01-zhalan02
+    2300228: Level01-zhalan02 1
+    2300230: Level01-zhalan02 2
+    2300232: Level01-zhalan02 3
+    2300234: Deftower01
+    2300236: Deftower02
+    2300238: Deftower03
+    2300240: duel_birdge
+    2300242: duel_dizhuan01
+    2300244: duel_shanti01
+    2300246: duel_shikuai01
+    2300248: duel_shitai
+    2300250: duel_shizhu01
+    2300252: duel_spring
+    2300254: duel_spring 1
+    2300256: Gun
+    2300258: Level01-caocong
+    2300260: Pla_cao01
+    2300262: Pla_cao02
+    2300264: Pla_cao03
+    2300266: Pla_cao04
+    2300268: Pla_cao05
+    2300270: Pla_hua01
+    2300272: Pla_hua02
+    2300274: Pla_hua03
+    2300276: Pla_hua04
+    2300278: Pla_hua05
+    2300280: Pla_hua06
+    2300282: Pla_hua_b
+    2300284: Pla_hua_r
+    2300286: Pla_huluobo
+    2300288: Pla_mogu01
+    2300290: Pla_mogu02
+    2300292: Pla_pugongying01
+    2300294: Pla_pugongying02
+    2300296: Pla_siyecao
+    2300298: Pla_taiyanghua
+    2300300: Pla_xiaomai01
+    2300302: Pla_xiaomai02
+    2300304: Plane05
+    2300306: Plane06
+    2300308: Plane16
+    2300310: duel_bridge01
+    3300000: duel_birdge01
+    3300002: Level01-caocong01
+    3300004: Level01-caocong01 1
+    3300006: Level01-caocong01 10
+    3300008: Level01-caocong01 11
+    3300010: Level01-caocong01 12
+    3300012: Level01-caocong01 13
+    3300014: Level01-caocong01 14
+    3300016: Level01-caocong01 15
+    3300018: Level01-caocong01 16
+    3300020: Level01-caocong01 17
+    3300022: Level01-caocong01 18
+    3300024: Level01-caocong01 19
+    3300026: Level01-caocong01 2
+    3300028: Level01-caocong01 20
+    3300030: Level01-caocong01 21
+    3300032: Level01-caocong01 22
+    3300034: Level01-caocong01 23
+    3300036: Level01-caocong01 24
+    3300038: Level01-caocong01 25
+    3300040: Level01-caocong01 26
+    3300042: Level01-caocong01 27
+    3300044: Level01-caocong01 28
+    3300046: Level01-caocong01 29
+    3300048: Level01-caocong01 3
+    3300050: Level01-caocong01 30
+    3300052: Level01-caocong01 31
+    3300054: Level01-caocong01 32
+    3300056: Level01-caocong01 33
+    3300058: Level01-caocong01 34
+    3300060: Level01-caocong01 35
+    3300062: Level01-caocong01 36
+    3300064: Level01-caocong01 37
+    3300066: Level01-caocong01 38
+    3300068: Level01-caocong01 4
+    3300070: Level01-caocong01 5
+    3300072: Level01-caocong01 6
+    3300074: Level01-caocong01 7
+    3300076: Level01-caocong01 8
+    3300078: Level01-caocong01 9
+    3300080: Level01-grass01
+    3300082: Level01-grass01 1
+    3300084: Level01-ground01
+    3300086: Level01-ground02
+    3300088: Level01-ground03
+    3300090: Level01-langan01
+    3300092: Level01-langan01 1
+    3300094: Level01-langan01 2
+    3300096: Level01-langan01 3
+    3300098: Level01-langan01 4
+    3300100: Level01-langan01 5
+    3300102: Level01-langan01 6
+    3300104: Level01-langan01 7
+    3300106: Level01-langan02
+    3300108: Level01-langan02 1
+    3300110: Level01-suishi01
+    3300112: Level01-suishi01 1
+    3300114: Level01-taijie01
+    3300116: Level01-tree01
+    3300118: Level01-tree01 1
+    3300120: Level01-tree01 2
+    3300122: Level01-tree01 3
+    3300124: Level01-tree01 4
+    3300126: Level01-tree01 5
+    3300128: Level01-tree01 6
+    3300130: Level01-tree01 7
+    3300132: Level01-tree02
+    3300134: Level01-tree02 1
+    3300136: Level01-tree02 2
+    3300138: Level01-tree02 3
+    3300140: Level01-tree02 4
+    3300142: Level01-tree02 5
+    3300144: Level01-tree02 6
+    3300146: Level01-tree02 7
+    3300148: Level01-tree02 8
+    3300150: Level01-tree03
+    3300152: Level01-tree03 1
+    3300154: Level01-tree03 10
+    3300156: Level01-tree03 11
+    3300158: Level01-tree03 12
+    3300160: Level01-tree03 13
+    3300162: Level01-tree03 14
+    3300164: Level01-tree03 15
+    3300166: Level01-tree03 2
+    3300168: Level01-tree03 3
+    3300170: Level01-tree03 4
+    3300172: Level01-tree03 5
+    3300174: Level01-tree03 6
+    3300176: Level01-tree03 7
+    3300178: Level01-tree03 8
+    3300180: Level01-tree03 9
+    3300182: Level01-tree04
+    3300184: Level01-tree04 1
+    3300186: Level01-tree04 2
+    3300188: Level01-tree04 3
+    3300190: Level01-tree04 4
+    3300192: Level01-tree04 5
+    3300194: Level01-tree04 6
+    3300196: Level01-zacao01
+    3300198: Level01-zacao01 1
+    3300200: Level01-zacao01 2
+    3300202: Level01-zacao01 3
+    3300204: Level01-zacao02
+    3300206: Level01-zacao02 1
+    3300208: Level01-zacao02 2
+    3300210: Level01-zacao02 3
+    3300212: Level01-zacao02 4
+    3300214: Level01-zacao03
+    3300216: Level01-zacao03 1
+    3300218: Level01-zacao03 2
+    3300220: Level01-zacao04
+    3300222: Level01-zhalan01
+    3300224: Level01-zhalan01 1
+    3300226: Level01-zhalan02
+    3300228: Level01-zhalan02 1
+    3300230: Level01-zhalan02 2
+    3300232: Level01-zhalan02 3
+    3300234: Deftower01
+    3300236: Deftower02
+    3300238: Deftower03
+    3300240: duel_birdge
+    3300242: duel_dizhuan01
+    3300244: duel_shanti01
+    3300246: duel_shikuai01
+    3300248: duel_shitai
+    3300250: duel_shizhu01
+    3300252: duel_spring
+    3300254: duel_spring 1
+    3300256: Gun
+    3300258: Level01-caocong
+    3300260: Pla_cao01
+    3300262: Pla_cao02
+    3300264: Pla_cao03
+    3300266: Pla_cao04
+    3300268: Pla_cao05
+    3300270: Pla_hua01
+    3300272: Pla_hua02
+    3300274: Pla_hua03
+    3300276: Pla_hua04
+    3300278: Pla_hua05
+    3300280: Pla_hua06
+    3300282: Pla_hua_b
+    3300284: Pla_hua_r
+    3300286: Pla_huluobo
+    3300288: Pla_mogu01
+    3300290: Pla_mogu02
+    3300292: Pla_pugongying01
+    3300294: Pla_pugongying02
+    3300296: Pla_siyecao
+    3300298: Pla_taiyanghua
+    3300300: Pla_xiaomai01
+    3300302: Pla_xiaomai02
+    3300304: Plane05
+    3300306: Plane06
+    3300308: Plane16
+    3300310: duel_bridge01
+    4300000: Level01-ground02
+    4300002: duel_birdge01
+    4300004: Level01-ground01
+    4300006: Level01-taijie01
+    4300008: Level01-grass01
+    4300010: Level01-langan02
+    4300012: Level01-langan01
+    4300014: Level01-langan01
+    4300016: Level01-langan02
+    4300018: Level01-grass01
+    4300020: Level01-langan01
+    4300022: Level01-langan01
+    4300024: Level01-langan01
+    4300026: Level01-langan01
+    4300028: Level01-langan01
+    4300030: Level01-langan01
+    4300032: Level01-ground03
+    4300034: Level01-zacao02
+    4300036: Level01-tree01
+    4300038: Level01-zacao01
+    4300040: Level01-zacao01
+    4300042: Level01-zacao03
+    4300044: Level01-tree03
+    4300046: Level01-tree02
+    4300048: Level01-zacao01
+    4300050: Level01-tree03
+    4300052: Level01-tree03
+    4300054: Level01-zacao02
+    4300056: Level01-zacao03
+    4300058: Level01-zacao01
+    4300060: Level01-tree01
+    4300062: Level01-tree02
+    4300064: Level01-tree02
+    4300066: Level01-tree03
+    4300068: Level01-tree01
+    4300070: Level01-tree03
+    4300072: Level01-tree04
+    4300074: Level01-tree03
+    4300076: Level01-tree04
+    4300078: Level01-zacao03
+    4300080: Level01-tree04
+    4300082: Level01-zacao02
+    4300084: Level01-tree02
+    4300086: Level01-tree03
+    4300088: Level01-zacao04
+    4300090: Level01-tree04
+    4300092: Level01-tree03
+    4300094: Level01-zacao02
+    4300096: Level01-tree03
+    4300098: Level01-tree03
+    4300100: Level01-tree02
+    4300102: Level01-tree01
+    4300104: Level01-tree04
+    4300106: Level01-tree03
+    4300108: Level01-tree02
+    4300110: Level01-tree02
+    4300112: Level01-zacao02
+    4300114: Level01-tree04
+    4300116: Level01-tree01
+    4300118: Level01-tree01
+    4300120: Level01-tree02
+    4300122: Level01-tree03
+    4300124: Level01-tree02
+    4300126: Level01-tree01
+    4300128: Level01-tree03
+    4300130: Level01-tree03
+    4300132: Level01-tree04
+    4300134: Level01-tree03
+    4300136: Level01-tree03
+    4300138: Level01-tree01
+    4300140: Level01-zhalan02
+    4300142: Level01-zhalan02
+    4300144: Level01-caocong01
+    4300146: Level01-caocong01
+    4300148: Level01-suishi01
+    4300150: Level01-caocong01
+    4300152: Level01-caocong01
+    4300154: Level01-caocong01
+    4300156: Level01-caocong01
+    4300158: Level01-caocong01
+    4300160: Level01-caocong01
+    4300162: Level01-caocong01
+    4300164: Level01-caocong01
+    4300166: Level01-caocong01
+    4300168: Level01-caocong01
+    4300170: Level01-caocong01
+    4300172: Level01-caocong01
+    4300174: Level01-caocong01
+    4300176: Level01-caocong01
+    4300178: Level01-caocong01
+    4300180: Level01-caocong01
+    4300182: Level01-caocong01
+    4300184: Level01-caocong01
+    4300186: Level01-caocong01
+    4300188: Level01-caocong01
+    4300190: Level01-caocong01
+    4300192: Level01-caocong01
+    4300194: Level01-caocong01
+    4300196: Level01-caocong01
+    4300198: Level01-suishi01
+    4300200: Level01-caocong01
+    4300202: Level01-caocong01
+    4300204: Level01-caocong01
+    4300206: Level01-caocong01
+    4300208: Level01-caocong01
+    4300210: Level01-caocong01
+    4300212: Level01-caocong01
+    4300214: Level01-caocong01
+    4300216: Level01-caocong01
+    4300218: Level01-zhalan01
+    4300220: Level01-zhalan01
+    4300222: Level01-zhalan02
+    4300224: Level01-zhalan02
+    4300226: Level01-caocong01
+    4300228: Level01-caocong01
+    4300230: Level01-caocong01
+    4300232: Level01-caocong01
+    4300234: duel_birdge
+    4300236: duel_spring
+    4300238: duel_shitai
+    4300240: duel_shikuai01
+    4300242: duel_shizhu01
+    4300244: duel_dizhuan01
+    4300246: duel_spring
+    4300248: duel_shanti01
+    4300250: Pla_cao04
+    4300252: Pla_huluobo
+    4300254: Pla_taiyanghua
+    4300256: Pla_xiaomai01
+    4300258: Pla_xiaomai02
+    4300260: Pla_pugongying02
+    4300262: Pla_hua_b
+    4300264: Pla_pugongying01
+    4300266: Pla_hua01
+    4300268: Pla_siyecao
+    4300270: Pla_cao03
+    4300272: Pla_hua_r
+    4300274: Pla_hua06
+    4300276: Pla_hua04
+    4300278: Pla_cao02
+    4300280: Pla_cao01
+    4300282: Pla_mogu01
+    4300284: Pla_mogu02
+    4300286: Pla_hua05
+    4300288: Pla_hua03
+    4300290: Pla_hua02
+    4300292: Pla_cao05
+    4300294: Plane05
+    4300296: Plane06
+    4300298: Level01-caocong
+    4300300: Plane16
+    4300302: Deftower03
+    4300304: Deftower01
+    4300306: Gun
+    4300308: Deftower02
+    4300310: duel_bridge01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,132 @@
+ManifestFileVersion: 0
+CRC: 3618369058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d50afcbe4e74fc2b835dc78a4001b2bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 56e14343812f86435bdbd84a5186a13f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M022/Texture/Asset/BUI-K-E-II-Bg.png
+- Assets/Logic/M022/Texture/Asset/BUI-TowerIconAlly.png
+- Assets/Logic/M022/Texture/Asset/BUI-RBPlay.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000202.png
+- Assets/Logic/M022/Texture/Asset/BUI-CellSelf.png
+- Assets/Logic/M022/Texture/Asset/BUI-DebuffVertigo.png
+- Assets/Logic/M022/Texture/Asset/BUI-Sign.png
+- Assets/Logic/M022/Texture/Asset/BUI-RB1.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000301.png
+- Assets/Logic/M022/Texture/Asset/BUI-DebuffStriking.png
+- Assets/Logic/M022/Texture/Asset/BUI-Capitulate2.png
+- Assets/Logic/M022/Texture/Asset/BUI-CellEnemy.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000303.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11001101.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000402.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000101.png
+- Assets/Logic/M022/Texture/Asset/BUI-RB3.png
+- Assets/Logic/M022/Texture/Asset/BUI-K-A-IV-Bg.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000302.png
+- Assets/Logic/M022/Texture/Asset/BUI-RBStop.png
+- Assets/Logic/M022/Texture/Asset/Icon/I16011011.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000501.png
+- Assets/Logic/M022/Texture/Asset/BUI-K-A-II-Bg.png
+- Assets/Logic/M022/Texture/Asset/BUI-CenterCircleRed.png
+- Assets/Logic/M022/Texture/Asset/BUI-K-E-Normal-Bg.png
+- Assets/Logic/M022/Texture/Asset/BUI-K-E-IV-Bg.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000102.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000002.png
+- Assets/Logic/M022/Texture/Asset/BUI-TowerIconEnemy.png
+- Assets/Logic/M022/Texture/Asset/BUI-Tag3.png
+- Assets/Logic/M022/Texture/Asset/BUI-K-A-Normal-Bg.png
+- Assets/Logic/M022/Texture/Asset/Icon/I16035201.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000401.png
+- Assets/Logic/M022/Texture/Asset/BUI-Tag1.png
+- Assets/Logic/M022/Texture/Asset/BUI-RB2.png
+- Assets/Logic/M022/Texture/Asset/BUI-Tag4.png
+- Assets/Logic/M022/Texture/Asset/BUI-K-E-First-Bg.png
+- Assets/Logic/M022/Texture/Asset/BUI-Tag2.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000103.png
+- Assets/Logic/M022/Texture/Asset/BUI-CellAlly.png
+- Assets/Logic/M022/Texture/Asset/BUI-K-A-First-Bg.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11001401.png
+- Assets/Logic/M022/Texture/Asset/Icon/I16017201.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000001.png
+- Assets/Logic/M022/Texture/Asset/BUI-Capitulate.png
+- Assets/Logic/M022/Texture/Asset/Icon/I11000201.png
+- Assets/Logic/M022/UIBattlePanel.prefab
+- Assets/Logic/M022/Texture/Asset/BUI-CenterCircleBlue.png
+Dependencies:
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/battleui.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/honoricon.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/fonts.assetbundle

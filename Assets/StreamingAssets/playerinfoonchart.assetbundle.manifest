@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2880893868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c017e6b9f302f7a5ed655e50d18cc04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d921ca4ca3b5904f608cba900a585c75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M032/PlayerInfoOnChart/PlayerInfoOnChartPanel.prefab
+Dependencies:
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/fonts.assetbundle

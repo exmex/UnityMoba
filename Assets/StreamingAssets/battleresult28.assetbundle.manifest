@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 397208706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdeae901905e97dce46e2623982118cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d65f836cefc4e962ed435b8ca10b7f29
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M028/Share2829/Texture/M028-ZX-Data-0046.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TTank.png
+- Assets/Logic/M028/Share2829/Texture/M028-ZX-Data-0047.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TPentaKill.png
+- Assets/Logic/M028/Share2829/Texture/M028-ZX-Data-0044.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TKiller.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TLegendary.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TRusher.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TAssist.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TQuadraKill.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TDPS.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TDeserter.png
+- Assets/Logic/M028/Share2829/Texture/M028-ZX-Texture-0001.png
+- Assets/Logic/M028/Share2829/Texture/M028-ZX-Data-0041.png
+- Assets/Logic/M028/Share2829/Texture/M028-ZX-Data-0042.png
+- Assets/Logic/M028/BattleResult28/BattleResult28Panel.prefab
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TTripleKill.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TWinnerMvp.png
+- Assets/Logic/M028/Share2829/Texture/M028-ZX-Data-0040.png
+- Assets/Logic/M028/BattleResult29/Texture/29/Title/TRich.png
+- Assets/Logic/M028/Share2829/Texture/M028-ZX-Data-0043.png
+Dependencies:
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/fonts.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/battleresult29.assetbundle

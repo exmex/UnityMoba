@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TGRoleWeapon
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Root
+    m_Weight: 0
+  - m_Path: Root/Hips
+    m_Weight: 0
+  - m_Path: Root/Hips/B Skirt01
+    m_Weight: 1
+  - m_Path: Root/Hips/B Skirt01/B Skirt02
+    m_Weight: 1
+  - m_Path: Root/Hips/B Skirt01/B Skirt02/B Skirt03
+    m_Weight: 1
+  - m_Path: Root/Hips/L Skirt01
+    m_Weight: 1
+  - m_Path: Root/Hips/L Skirt01/L Skirt02
+    m_Weight: 1
+  - m_Path: Root/Hips/L Skirt01/L Skirt02/L Skirt03
+    m_Weight: 1
+  - m_Path: Root/Hips/L Skirt04
+    m_Weight: 1
+  - m_Path: Root/Hips/L Skirt04/L Skirt05
+    m_Weight: 1
+  - m_Path: Root/Hips/L Skirt04/L Skirt05/L Skirt06
+    m_Weight: 1
+  - m_Path: Root/Hips/L Upper Leg
+    m_Weight: 0
+  - m_Path: Root/Hips/L Upper Leg/L Lower Leg
+    m_Weight: 0
+  - m_Path: Root/Hips/L Upper Leg/L Lower Leg/L Foot
+    m_Weight: 0
+  - m_Path: Root/Hips/L Upper Leg/L Lower Leg/L Foot/L Toes
+    m_Weight: 0
+  - m_Path: Root/Hips/R Skirt01
+    m_Weight: 1
+  - m_Path: Root/Hips/R Skirt01/R Skirt02
+    m_Weight: 1
+  - m_Path: Root/Hips/R Skirt01/R Skirt02/R Skirt03
+    m_Weight: 1
+  - m_Path: Root/Hips/R Skirt04
+    m_Weight: 1
+  - m_Path: Root/Hips/R Skirt04/R Skirt05
+    m_Weight: 1
+  - m_Path: Root/Hips/R Skirt04/R Skirt05/R Skirt06
+    m_Weight: 1
+  - m_Path: Root/Hips/R Upper Leg
+    m_Weight: 0
+  - m_Path: Root/Hips/R Upper Leg/R Lower Leg
+    m_Weight: 0
+  - m_Path: Root/Hips/R Upper Leg/R Lower Leg/R Foot
+    m_Weight: 0
+  - m_Path: Root/Hips/R Upper Leg/R Lower Leg/R Foot/R Toes
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Chest01
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/B Hair01
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/B Hair01/B Hair02
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/B Hair01/B Hair02/B Hair03
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/B Hair01/B Hair02/B Hair03/B Hair04
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/B Hair01/B Hair02/B Hair03/B Hair04/B
+      Hair05
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair001
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair001/L Hair002
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair001/L Hair002/L Hair003
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair001/L Hair002/L Hair003/L Hair004
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair001/L Hair002/L Hair003/L Hair004/L
+      Hair005
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair001/L Hair002/L Hair003/L Hair004/L
+      Hair005/L Hair006
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair01
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair01/L Hair02
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair01/L Hair02/L Hair03
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair01/L Hair02/L Hair03/L Hair04
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair05
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair05/L Hair06
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair05/L Hair06/L Hair07
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair05/L Hair06/L Hair07/L Hair08
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair09
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/L Hair09/L Hair10
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair001
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair001/R Hair002
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair001/R Hair002/R Hair003
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair001/R Hair002/R Hair003/R Hair004
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair001/R Hair002/R Hair003/R Hair004/R
+      Hair005
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair001/R Hair002/R Hair003/R Hair004/R
+      Hair005/R Hair006
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair01
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair01/R Hair02
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair01/R Hair02/R Hair03
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair01/R Hair02/R Hair03/R Hair04
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair05
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair05/R Hair06
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair05/R Hair06/R Hair07
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair05/R Hair06/R Hair07/R Hair08
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair09
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/R Hair09/R Hair10
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/T Hair01
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/Head/T Hair01/T Hair02
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger0
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger0/L Finger01
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger0/L Finger01/L Finger02
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger1
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger1/L Finger11
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger1/L Finger11/L Finger12
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger2
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger2/L Finger21
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger2/L Finger21/L Finger22
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger3
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger3/L Finger31
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger3/L Finger31/L Finger32
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger4
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger4/L Finger41
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger4/L Finger41/L Finger42
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger0
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger0/R Finger01
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger0/R Finger01/R Finger02
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger1
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger1/R Finger11
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger1/R Finger11/R Finger12
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger2
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger2/R Finger21
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger2/R Finger21/R Finger22
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger3
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger3/R Finger31
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger3/R Finger31/R Finger32
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger4
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger4/R Finger41
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger4/R Finger41/R Finger42
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Weapon Anchor
+    m_Weight: 1

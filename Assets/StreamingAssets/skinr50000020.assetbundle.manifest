@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 457571323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af05197f0bb9e2bea77a271ff2a65d70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf9006e8e3ece66e8efc141364448760
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Role/R50000020/R50000020-Show.prefab
+Dependencies:
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/shader.assetbundle

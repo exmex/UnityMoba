@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 480125724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 741dff9d94fd7cb3ea58ac0abdb2a000
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e8f1671a77e777b271cd9deef11395a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M027/BattleResult27/BattleResult27LosePanel.prefab
+Dependencies: []

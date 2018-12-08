@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2404221443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24abfcdd7142ad0195da1d7aef6fbb17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/VipIcon/v4.png
+- Assets/Logic/Icon/VipIcon/v6.png
+- Assets/Logic/Icon/VipIcon/v1.png
+- Assets/Logic/Icon/VipIcon/v7.png
+- Assets/Logic/Icon/VipIcon/v8.png
+- Assets/Logic/Icon/VipIcon/v2.png
+- Assets/Logic/Icon/VipIcon/v5.png
+- Assets/Logic/Icon/VipIcon/v9.png
+- Assets/Logic/Icon/VipIcon/v10.png
+- Assets/Logic/Icon/VipIcon/v3.png
+Dependencies: []

@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 920828093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad7a5c3865be424cc11416c497211f3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dff4458c6e6d3e2c6f5eadaa6f9834b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0032.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0030.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0035.png
+- Assets/Logic/M028/BattleResult29/Texture/29/data/M028-ZX-Data-0020.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0029.png
+- Assets/Logic/M028/BattleResult29/Texture/29/data/M028-ZX-Data-0019.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-29-0013.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0025.png
+- Assets/Logic/M028/BattleResult29/Texture/29/common/M028-ZX-Common-0014.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0023.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-TipsFrame.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0036.png
+- Assets/Logic/M028/BattleResult29/Texture/29/data/M028-ZX-Data-0018.png
+- Assets/Logic/M028/BattleResult29/Texture/29/common/M028-ZX-Common-0015.png
+- Assets/Logic/M028/BattleResult29/Texture/29/common/M028-ZX-Common-0017.png
+- Assets/Logic/M028/BattleResult29/Texture/29/common/M028-ZX-Common-0016.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0031.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0024.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-29-0010.png
+- Assets/Logic/M028/BattleResult29/Texture/29/data/M028-ZX-Data-0021.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0022.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0033.png
+- Assets/Logic/M028/BattleResult29/BattleResult29Panel.prefab
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-29-0012.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0034.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0038.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-29-0011.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0039.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0037.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0028.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0027.png
+- Assets/Logic/M028/BattleResult29/Texture/29/M028-ZX-Data-0026.png
+Dependencies:
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/equipicon.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/roleicon.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/battleresult28.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/pagetext.assetbundle
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/fonts.assetbundle

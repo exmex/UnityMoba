@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 788254ca23e75c343acc6a63e01da79f
+timeCreated: 1447153138
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: duel_bridge01
+    100002: duel_taizi01
+    100004: duel_taizi01 1
+    100006: //RootNode
+    100008: Level01-grass01
+    100010: Level01-grass01 1
+    100012: Level01-ground01
+    100014: Level01-ground02
+    100016: Level01-ground03
+    100018: Level01-langan01
+    100020: Level01-langan01 1
+    100022: Level01-langan01 2
+    100024: Level01-langan01 3
+    100026: Level01-langan01 4
+    100028: Level01-langan01 5
+    100030: Level01-langan01 6
+    100032: Level01-langan01 7
+    100034: Level01-langan02
+    100036: Level01-langan02 1
+    100038: Level01-taijie01
+    100040: duel_taizi02
+    100042: Level01-langan03
+    400000: duel_bridge01
+    400002: duel_taizi01
+    400004: duel_taizi01 1
+    400006: //RootNode
+    400008: Level01-grass01
+    400010: Level01-grass01 1
+    400012: Level01-ground01
+    400014: Level01-ground02
+    400016: Level01-ground03
+    400018: Level01-langan01
+    400020: Level01-langan01 1
+    400022: Level01-langan01 2
+    400024: Level01-langan01 3
+    400026: Level01-langan01 4
+    400028: Level01-langan01 5
+    400030: Level01-langan01 6
+    400032: Level01-langan01 7
+    400034: Level01-langan02
+    400036: Level01-langan02 1
+    400038: Level01-taijie01
+    400040: duel_taizi02
+    400042: Level01-langan03
+    2300000: duel_bridge01
+    2300002: duel_taizi01
+    2300004: duel_taizi01 1
+    2300006: Level01-grass01
+    2300008: Level01-grass01 1
+    2300010: Level01-ground01
+    2300012: Level01-ground02
+    2300014: Level01-ground03
+    2300016: Level01-langan01
+    2300018: Level01-langan01 1
+    2300020: Level01-langan01 2
+    2300022: Level01-langan01 3
+    2300024: Level01-langan01 4
+    2300026: Level01-langan01 5
+    2300028: Level01-langan01 6
+    2300030: Level01-langan01 7
+    2300032: Level01-langan02
+    2300034: Level01-langan02 1
+    2300036: Level01-taijie01
+    2300038: duel_taizi02
+    2300040: Level01-langan03
+    3300000: duel_bridge01
+    3300002: duel_taizi01
+    3300004: duel_taizi01 1
+    3300006: Level01-grass01
+    3300008: Level01-grass01 1
+    3300010: Level01-ground01
+    3300012: Level01-ground02
+    3300014: Level01-ground03
+    3300016: Level01-langan01
+    3300018: Level01-langan01 1
+    3300020: Level01-langan01 2
+    3300022: Level01-langan01 3
+    3300024: Level01-langan01 4
+    3300026: Level01-langan01 5
+    3300028: Level01-langan01 6
+    3300030: Level01-langan01 7
+    3300032: Level01-langan02
+    3300034: Level01-langan02 1
+    3300036: Level01-taijie01
+    3300038: duel_taizi02
+    3300040: Level01-langan03
+    4300000: duel_taizi01
+    4300002: duel_taizi01
+    4300004: Level01-ground02
+    4300006: duel_bridge01
+    4300008: Level01-ground01
+    4300010: Level01-taijie01
+    4300012: Level01-langan01
+    4300014: Level01-langan02
+    4300016: Level01-grass01
+    4300018: Level01-ground03
+    4300020: Level01-grass01
+    4300022: Level01-langan02
+    4300024: Level01-langan01
+    4300026: Level01-langan01
+    4300028: Level01-langan01
+    4300030: Level01-langan01
+    4300032: Level01-langan01
+    4300034: Level01-langan01
+    4300036: Level01-langan01
+    4300038: duel_taizi02
+    4300040: Level01-langan03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

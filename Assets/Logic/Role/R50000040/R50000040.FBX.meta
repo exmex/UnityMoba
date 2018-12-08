@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: e26c874a8861bb04a895ed29f203047c
+timeCreated: 1466071230
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B Hair01
+    100002: B Hair02
+    100004: B Hair03
+    100006: B Hair04
+    100008: Bip
+    100010: Body
+    100012: Chest
+    100014: Chest01
+    100016: Face
+    100018: Gun01
+    100020: Gun01 1
+    100022: Gun02
+    100024: Gun02 1
+    100026: Gun03
+    100028: Gun03 1
+    100030: Hair
+    100032: Hat
+    100034: Head
+    100036: Helmet01
+    100038: Helmet02
+    100040: Helmet03
+    100042: Hips
+    100044: L Finger0
+    100046: L Finger01
+    100048: L Finger1
+    100050: L Finger11
+    100052: L Foot
+    100054: L Hair01
+    100056: L Hair02
+    100058: L Hair03
+    100060: L Hair04
+    100062: L Hair05
+    100064: L Hair06
+    100066: L Hair07
+    100068: L Hand
+    100070: L Lower Arm
+    100072: L Lower Leg
+    100074: L Shoulder
+    100076: L Skirt01
+    100078: L Skirt02
+    100080: L Skirt03
+    100082: L Toes
+    100084: L Upper Arm
+    100086: L Upper Leg
+    100088: Leg
+    100090: Neck
+    100092: 'Pweapon '
+    100094: R Finger0
+    100096: R Finger01
+    100098: R Finger1
+    100100: R Finger11
+    100102: R Foot
+    100104: R Hair01
+    100106: R Hair02
+    100108: R Hair03
+    100110: R Hair04
+    100112: R Hair05
+    100114: R Hair06
+    100116: R Hair07
+    100118: R Hand
+    100120: R Lower Arm
+    100122: R Lower Leg
+    100124: R Shoulder
+    100126: R Skirt01
+    100128: R Skirt02
+    100130: R Skirt03
+    100132: R Toes
+    100134: R Upper Arm
+    100136: R Upper Leg
+    100138: R Weapon Anchor
+    100140: //RootNode
+    100142: Root
+    100144: S Weapon Anchor
+    100146: Shoes
+    100148: Spine
+    100150: 'Sweapon '
+    400000: B Hair01
+    400002: B Hair02
+    400004: B Hair03
+    400006: B Hair04
+    400008: Bip
+    400010: Body
+    400012: Chest
+    400014: Chest01
+    400016: Face
+    400018: Gun01
+    400020: Gun01 1
+    400022: Gun02
+    400024: Gun02 1
+    400026: Gun03
+    400028: Gun03 1
+    400030: Hair
+    400032: Hat
+    400034: Head
+    400036: Helmet01
+    400038: Helmet02
+    400040: Helmet03
+    400042: Hips
+    400044: L Finger0
+    400046: L Finger01
+    400048: L Finger1
+    400050: L Finger11
+    400052: L Foot
+    400054: L Hair01
+    400056: L Hair02
+    400058: L Hair03
+    400060: L Hair04
+    400062: L Hair05
+    400064: L Hair06
+    400066: L Hair07
+    400068: L Hand
+    400070: L Lower Arm
+    400072: L Lower Leg
+    400074: L Shoulder
+    400076: L Skirt01
+    400078: L Skirt02
+    400080: L Skirt03
+    400082: L Toes
+    400084: L Upper Arm
+    400086: L Upper Leg
+    400088: Leg
+    400090: Neck
+    400092: 'Pweapon '
+    400094: R Finger0
+    400096: R Finger01
+    400098: R Finger1
+    400100: R Finger11
+    400102: R Foot
+    400104: R Hair01
+    400106: R Hair02
+    400108: R Hair03
+    400110: R Hair04
+    400112: R Hair05
+    400114: R Hair06
+    400116: R Hair07
+    400118: R Hand
+    400120: R Lower Arm
+    400122: R Lower Leg
+    400124: R Shoulder
+    400126: R Skirt01
+    400128: R Skirt02
+    400130: R Skirt03
+    400132: R Toes
+    400134: R Upper Arm
+    400136: R Upper Leg
+    400138: R Weapon Anchor
+    400140: //RootNode
+    400142: Root
+    400144: S Weapon Anchor
+    400146: Shoes
+    400148: Spine
+    400150: 'Sweapon '
+    2300000: 'Pweapon '
+    3300000: 'Pweapon '
+    4300000: Shoes
+    4300002: Leg
+    4300004: Hair
+    4300006: Face
+    4300008: Body
+    4300010: 'Pweapon '
+    4300012: Hat
+    4300014: 'Sweapon '
+    9500000: //RootNode
+    13700000: Body
+    13700002: Face
+    13700004: Hair
+    13700006: Hat
+    13700008: Leg
+    13700010: Shoes
+    13700012: 'Sweapon '
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

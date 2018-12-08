@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1603159914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9afce095d1ebe834dd5775d505fb09f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf9006e8e3ece66e8efc141364448760
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Role/R50000010/R50000010-Show.prefab
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1811328768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cadd6074861a392ffe77364cf99bf4d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ff337e13fc7c935a2999569c021ea3e
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M066/HeroInfo/Meterial/M066RT.renderTexture
+- Assets/Logic/M047/Texture/M066RT 1.renderTexture
+Dependencies: []

@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 2133560825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28254f28184dc5984599a8bbb232222b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/EquipIcon/I12003301.png
+- Assets/Logic/Icon/EquipIcon/I12004201.png
+- Assets/Logic/Icon/EquipIcon/I12002101.png
+- Assets/Logic/Icon/EquipIcon/I12002202.png
+- Assets/Logic/Icon/EquipIcon/I12003206.png
+- Assets/Logic/Icon/EquipIcon/I12002308.png
+- Assets/Logic/Icon/EquipIcon/I12009005.png
+- Assets/Logic/Icon/EquipIcon/I12002305.png
+- Assets/Logic/Icon/EquipIcon/I12003302.png
+- Assets/Logic/Icon/EquipIcon/I12001302.png
+- Assets/Logic/Icon/EquipIcon/I12001202.png
+- Assets/Logic/Icon/EquipIcon/I12009006.png
+- Assets/Logic/Icon/EquipIcon/I12005303.png
+- Assets/Logic/Icon/EquipIcon/I12002205.png
+- Assets/Logic/Icon/EquipIcon/I12001303.png
+- Assets/Logic/Icon/EquipIcon/I12001304.png
+- Assets/Logic/Icon/EquipIcon/I12003303.png
+- Assets/Logic/Icon/EquipIcon/I12005203.png
+- Assets/Logic/Icon/EquipIcon/I12002301.png
+- Assets/Logic/Icon/EquipIcon/I12003202.png
+- Assets/Logic/Icon/EquipIcon/I12002203.png
+- Assets/Logic/Icon/EquipIcon/I12003306.png
+- Assets/Logic/Icon/EquipIcon/I12005301.png
+- Assets/Logic/Icon/EquipIcon/I12004206.png
+- Assets/Logic/Icon/EquipIcon/I12002104.png
+- Assets/Logic/Icon/EquipIcon/I12002103.png
+- Assets/Logic/Icon/EquipIcon/I12003104.png
+- Assets/Logic/Icon/EquipIcon/I12001305.png
+- Assets/Logic/Icon/EquipIcon/I12004204.png
+- Assets/Logic/Icon/EquipIcon/I12005202.png
+- Assets/Logic/Icon/EquipIcon/I12003101.png
+- Assets/Logic/Icon/EquipIcon/I12003204.png
+- Assets/Logic/Icon/EquipIcon/I12002302.png
+- Assets/Logic/Icon/EquipIcon/I12004202.png
+- Assets/Logic/Icon/EquipIcon/I12002201.png
+- Assets/Logic/Icon/EquipIcon/I12009002.png
+- Assets/Logic/Icon/EquipIcon/I12001306.png
+- Assets/Logic/Icon/EquipIcon/I12001205.png
+- Assets/Logic/Icon/EquipIcon/I12003203.png
+- Assets/Logic/Icon/EquipIcon/I12001308.png
+- Assets/Logic/Icon/EquipIcon/I12005302.png
+- Assets/Logic/Icon/EquipIcon/I12003201.png
+- Assets/Logic/Icon/EquipIcon/I12003207.png
+- Assets/Logic/Icon/EquipIcon/I12002306.png
+- Assets/Logic/Icon/EquipIcon/I12001103.png
+- Assets/Logic/Icon/EquipIcon/I12001101.png
+- Assets/Logic/Icon/EquipIcon/I12002102.png
+- Assets/Logic/Icon/EquipIcon/I12005201.png
+- Assets/Logic/Icon/EquipIcon/I12003305.png
+- Assets/Logic/Icon/EquipIcon/I12003205.png
+- Assets/Logic/Icon/EquipIcon/I12002307.png
+- Assets/Logic/Icon/EquipIcon/I12003208.png
+- Assets/Logic/Icon/EquipIcon/I12001203.png
+- Assets/Logic/Icon/EquipIcon/I12003304.png
+- Assets/Logic/Icon/EquipIcon/I12004203.png
+- Assets/Logic/Icon/EquipIcon/I12002206.png
+- Assets/Logic/Icon/EquipIcon/I12009003.png
+- Assets/Logic/Icon/EquipIcon/I12003308.png
+- Assets/Logic/Icon/EquipIcon/I12002304.png
+- Assets/Logic/Icon/EquipIcon/I12001307.png
+- Assets/Logic/Icon/EquipIcon/I12001206.png
+- Assets/Logic/Icon/EquipIcon/I12002207.png
+- Assets/Logic/Icon/EquipIcon/I12003307.png
+- Assets/Logic/Icon/EquipIcon/I12009008.png
+- Assets/Logic/Icon/EquipIcon/I12009001.png
+- Assets/Logic/Icon/EquipIcon/I12001102.png
+- Assets/Logic/Icon/EquipIcon/I12009004.png
+- Assets/Logic/Icon/EquipIcon/I12001104.png
+- Assets/Logic/Icon/EquipIcon/I12001204.png
+- Assets/Logic/Icon/EquipIcon/I12004101.png
+- Assets/Logic/Icon/EquipIcon/I12002208.png
+- Assets/Logic/Icon/EquipIcon/I12001201.png
+- Assets/Logic/Icon/EquipIcon/I12001208.png
+- Assets/Logic/Icon/EquipIcon/I12004205.png
+- Assets/Logic/Icon/EquipIcon/I12003102.png
+- Assets/Logic/Icon/EquipIcon/I12009007.png
+- Assets/Logic/Icon/EquipIcon/I12001207.png
+- Assets/Logic/Icon/EquipIcon/I12001301.png
+- Assets/Logic/Icon/EquipIcon/I12005101.png
+- Assets/Logic/Icon/EquipIcon/I12002303.png
+- Assets/Logic/Icon/EquipIcon/I12003103.png
+- Assets/Logic/Icon/EquipIcon/I12002204.png
+Dependencies: []

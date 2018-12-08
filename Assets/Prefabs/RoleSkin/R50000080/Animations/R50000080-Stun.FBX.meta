@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 6cb07cd53afb868428bbb7a0670e2e86
+timeCreated: 1462855314
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip
+    100002: Chest
+    100004: Chest01
+    100006: Gun01
+    100008: Gun02
+    100010: Gun03
+    100012: Gun04
+    100014: Head
+    100016: Hips
+    100018: Hips 1
+    100020: L Finger0
+    100022: L Finger01
+    100024: L Finger1
+    100026: L Finger11
+    100028: L Foot
+    100030: L Hand
+    100032: L Lower Arm
+    100034: L Lower Leg
+    100036: L Shoulder
+    100038: L Toes
+    100040: L Upper Arm
+    100042: L Upper Leg
+    100044: Neck
+    100046: R Finger0
+    100048: R Finger01
+    100050: R Finger1
+    100052: R Finger11
+    100054: R Foot
+    100056: R Hand
+    100058: R Lower Arm
+    100060: R Lower Leg
+    100062: R Shoulder
+    100064: R Toes
+    100066: R Upper Arm
+    100068: R Upper Leg
+    100070: //RootNode
+    100072: S Weapon Anchor
+    100074: Spine
+    400000: Bip
+    400002: Chest
+    400004: Chest01
+    400006: Gun01
+    400008: Gun02
+    400010: Gun03
+    400012: Gun04
+    400014: Head
+    400016: Hips
+    400018: Hips 1
+    400020: L Finger0
+    400022: L Finger01
+    400024: L Finger1
+    400026: L Finger11
+    400028: L Foot
+    400030: L Hand
+    400032: L Lower Arm
+    400034: L Lower Leg
+    400036: L Shoulder
+    400038: L Toes
+    400040: L Upper Arm
+    400042: L Upper Leg
+    400044: Neck
+    400046: R Finger0
+    400048: R Finger01
+    400050: R Finger1
+    400052: R Finger11
+    400054: R Foot
+    400056: R Hand
+    400058: R Lower Arm
+    400060: R Lower Leg
+    400062: R Shoulder
+    400064: R Toes
+    400066: R Upper Arm
+    400068: R Upper Leg
+    400070: //RootNode
+    400072: S Weapon Anchor
+    400074: Spine
+    7400000: Take 001
+    7400002: R50000080-Stun
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: Root
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: R50000080-Stun
+      takeName: 
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

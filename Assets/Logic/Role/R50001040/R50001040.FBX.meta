@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: bead1d2e8e2f845458b419729e9f6005
+timeCreated: 1469014796
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B Hair01
+    100002: B Hair02
+    100004: B Hair03
+    100006: B Hair04
+    100008: Bip
+    100010: Body
+    100012: Chest
+    100014: Chest01
+    100016: Face
+    100018: FXAnchor01
+    100020: Gun
+    100022: Gun01
+    100024: Gun02
+    100026: Gun03
+    100028: Gun04
+    100030: Hair
+    100032: Hat
+    100034: Head
+    100036: Hips
+    100038: L Finger0
+    100040: L Finger01
+    100042: L Finger1
+    100044: L Finger11
+    100046: L Foot
+    100048: L Hand
+    100050: L Lower Arm
+    100052: L Lower Leg
+    100054: L Shoulder
+    100056: L Toes
+    100058: L Upper Arm
+    100060: L Upper Leg
+    100062: Leg
+    100064: Neck
+    100066: Pweapon
+    100068: R Finger0
+    100070: R Finger01
+    100072: R Finger1
+    100074: R Finger11
+    100076: R Foot
+    100078: R Hand
+    100080: R Lower Arm
+    100082: R Lower Leg
+    100084: R Shoulder
+    100086: R Toes
+    100088: R Upper Arm
+    100090: R Upper Leg
+    100092: R Weapon Anchor
+    100094: //RootNode
+    100096: Seweapon
+    100098: Spine
+    400000: B Hair01
+    400002: B Hair02
+    400004: B Hair03
+    400006: B Hair04
+    400008: Bip
+    400010: Body
+    400012: Chest
+    400014: Chest01
+    400016: Face
+    400018: FXAnchor01
+    400020: Gun
+    400022: Gun01
+    400024: Gun02
+    400026: Gun03
+    400028: Gun04
+    400030: Hair
+    400032: Hat
+    400034: Head
+    400036: Hips
+    400038: L Finger0
+    400040: L Finger01
+    400042: L Finger1
+    400044: L Finger11
+    400046: L Foot
+    400048: L Hand
+    400050: L Lower Arm
+    400052: L Lower Leg
+    400054: L Shoulder
+    400056: L Toes
+    400058: L Upper Arm
+    400060: L Upper Leg
+    400062: Leg
+    400064: Neck
+    400066: Pweapon
+    400068: R Finger0
+    400070: R Finger01
+    400072: R Finger1
+    400074: R Finger11
+    400076: R Foot
+    400078: R Hand
+    400080: R Lower Arm
+    400082: R Lower Leg
+    400084: R Shoulder
+    400086: R Toes
+    400088: R Upper Arm
+    400090: R Upper Leg
+    400092: R Weapon Anchor
+    400094: //RootNode
+    400096: Seweapon
+    400098: Spine
+    2300000: Pweapon
+    3300000: Pweapon
+    4300000: Pweapon
+    4300002: Leg
+    4300004: Hat
+    4300006: Body
+    4300008: Hair
+    4300010: Face
+    4300012: Seweapon
+    9500000: //RootNode
+    13700000: Body
+    13700002: Face
+    13700004: Hair
+    13700006: Hat
+    13700008: Leg
+    13700010: Seweapon
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

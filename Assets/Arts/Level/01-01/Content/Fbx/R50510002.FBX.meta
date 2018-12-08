@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 001e43f226d30d04fa5f7c870066a316
+timeCreated: 1446704632
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: obj_jianpao01
+    100002: obj_jianpao01 1
+    100004: obj_jianpao02
+    100006: obj_jiazi
+    100008: obj_leida
+    100010: obj_lupai
+    100012: obj_muxiang
+    100014: obj_muxiang 1
+    100016: obj_muxiang 2
+    100018: obj_paodan01
+    100020: obj_paodan01 1
+    100022: obj_paodan02
+    100024: obj_paodan02 1
+    100026: obj_paodan03
+    100028: obj_paodan03 1
+    100030: obj_paodan04
+    100032: obj_paodan05
+    100034: obj_plane
+    100036: obj_truck
+    100038: obj_youbu
+    100040: obj_youtong
+    100042: obj_youtong 1
+    100044: obj_youtong 10
+    100046: obj_youtong 11
+    100048: obj_youtong 2
+    100050: obj_youtong 3
+    100052: obj_youtong 4
+    100054: obj_youtong 5
+    100056: obj_youtong 6
+    100058: obj_youtong 7
+    100060: obj_youtong 8
+    100062: obj_youtong 9
+    100064: obj_zhalan
+    100066: //RootNode
+    100068: obj_jianpao03
+    100070: obj_youtong01
+    100072: obj_youtong02
+    400000: obj_jianpao01
+    400002: obj_jianpao01 1
+    400004: obj_jianpao02
+    400006: obj_jiazi
+    400008: obj_leida
+    400010: obj_lupai
+    400012: obj_muxiang
+    400014: obj_muxiang 1
+    400016: obj_muxiang 2
+    400018: obj_paodan01
+    400020: obj_paodan01 1
+    400022: obj_paodan02
+    400024: obj_paodan02 1
+    400026: obj_paodan03
+    400028: obj_paodan03 1
+    400030: obj_paodan04
+    400032: obj_paodan05
+    400034: obj_plane
+    400036: obj_truck
+    400038: obj_youbu
+    400040: obj_youtong
+    400042: obj_youtong 1
+    400044: obj_youtong 10
+    400046: obj_youtong 11
+    400048: obj_youtong 2
+    400050: obj_youtong 3
+    400052: obj_youtong 4
+    400054: obj_youtong 5
+    400056: obj_youtong 6
+    400058: obj_youtong 7
+    400060: obj_youtong 8
+    400062: obj_youtong 9
+    400064: obj_zhalan
+    400066: //RootNode
+    400068: obj_jianpao03
+    400070: obj_youtong01
+    400072: obj_youtong02
+    2300000: obj_jianpao01
+    2300002: obj_jianpao01 1
+    2300004: obj_jianpao02
+    2300006: obj_jiazi
+    2300008: obj_leida
+    2300010: obj_lupai
+    2300012: obj_muxiang
+    2300014: obj_muxiang 1
+    2300016: obj_muxiang 2
+    2300018: obj_paodan01
+    2300020: obj_paodan01 1
+    2300022: obj_paodan02
+    2300024: obj_paodan02 1
+    2300026: obj_paodan03
+    2300028: obj_paodan03 1
+    2300030: obj_paodan04
+    2300032: obj_paodan05
+    2300034: obj_plane
+    2300036: obj_truck
+    2300038: obj_youbu
+    2300040: obj_youtong
+    2300042: obj_youtong 1
+    2300044: obj_youtong 10
+    2300046: obj_youtong 11
+    2300048: obj_youtong 2
+    2300050: obj_youtong 3
+    2300052: obj_youtong 4
+    2300054: obj_youtong 5
+    2300056: obj_youtong 6
+    2300058: obj_youtong 7
+    2300060: obj_youtong 8
+    2300062: obj_youtong 9
+    2300064: obj_zhalan
+    2300066: obj_jianpao03
+    2300068: obj_youtong01
+    2300070: obj_youtong02
+    3300000: obj_jianpao01
+    3300002: obj_jianpao01 1
+    3300004: obj_jianpao02
+    3300006: obj_jiazi
+    3300008: obj_leida
+    3300010: obj_lupai
+    3300012: obj_muxiang
+    3300014: obj_muxiang 1
+    3300016: obj_muxiang 2
+    3300018: obj_paodan01
+    3300020: obj_paodan01 1
+    3300022: obj_paodan02
+    3300024: obj_paodan02 1
+    3300026: obj_paodan03
+    3300028: obj_paodan03 1
+    3300030: obj_paodan04
+    3300032: obj_paodan05
+    3300034: obj_plane
+    3300036: obj_truck
+    3300038: obj_youbu
+    3300040: obj_youtong
+    3300042: obj_youtong 1
+    3300044: obj_youtong 10
+    3300046: obj_youtong 11
+    3300048: obj_youtong 2
+    3300050: obj_youtong 3
+    3300052: obj_youtong 4
+    3300054: obj_youtong 5
+    3300056: obj_youtong 6
+    3300058: obj_youtong 7
+    3300060: obj_youtong 8
+    3300062: obj_youtong 9
+    3300064: obj_zhalan
+    3300066: obj_jianpao03
+    3300068: obj_youtong01
+    3300070: obj_youtong02
+    4300000: obj_youtong
+    4300002: obj_leida
+    4300004: obj_youbu
+    4300006: obj_zhalan
+    4300008: obj_jianpao02
+    4300010: obj_jianpao01
+    4300012: obj_lupai
+    4300014: obj_youtong
+    4300016: obj_muxiang
+    4300018: obj_muxiang
+    4300020: obj_muxiang
+    4300022: obj_youtong
+    4300024: obj_youtong
+    4300026: obj_youtong
+    4300028: obj_youtong
+    4300030: obj_youtong
+    4300032: obj_youtong
+    4300034: obj_youtong
+    4300036: obj_youtong
+    4300038: obj_jiazi
+    4300040: obj_paodan02
+    4300042: obj_paodan01
+    4300044: obj_paodan02
+    4300046: obj_paodan01
+    4300048: obj_paodan05
+    4300050: obj_paodan04
+    4300052: obj_paodan03
+    4300054: obj_paodan03
+    4300056: obj_youtong
+    4300058: obj_jianpao01
+    4300060: obj_truck
+    4300062: obj_plane
+    4300064: obj_youtong
+    4300066: obj_jianpao03
+    4300068: obj_youtong01
+    4300070: obj_youtong02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

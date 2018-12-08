@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2504542299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63ff99b3da9daa99459eeefcfd76fda2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/GrowUpIcon/I1004.PNG
+- Assets/Logic/Icon/GrowUpIcon/I1007.png
+- Assets/Logic/Icon/GrowUpIcon/I1006.png
+- Assets/Logic/Icon/GrowUpIcon/I1005.png
+- Assets/Logic/Icon/GrowUpIcon/I1011.png
+- Assets/Logic/Icon/GrowUpIcon/I1010.png
+- Assets/Logic/Icon/GrowUpIcon/I1003.png
+- Assets/Logic/Icon/GrowUpIcon/I1012.png
+- Assets/Logic/Icon/GrowUpIcon/I1002.png
+- Assets/Logic/Icon/GrowUpIcon/I1009.png
+- Assets/Logic/Icon/GrowUpIcon/I1001.png
+- Assets/Logic/Icon/GrowUpIcon/I1008.png
+- Assets/Logic/Icon/GrowUpIcon/I1000.png
+Dependencies: []

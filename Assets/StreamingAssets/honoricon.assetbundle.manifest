@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3113756231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35fd04958fb1a254ab6e86e78317280b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/HonorIcon/P211.png
+- Assets/Logic/Icon/HonorIcon/P252.png
+- Assets/Logic/Icon/HonorIcon/P232.png
+- Assets/Logic/Icon/HonorIcon/P261.png
+- Assets/Logic/Icon/HonorIcon/P212.png
+- Assets/Logic/Icon/HonorIcon/P243.png
+- Assets/Logic/Icon/HonorIcon/p130.png
+- Assets/Logic/Icon/HonorIcon/P110.png
+- Assets/Logic/Icon/HonorIcon/P222.png
+- Assets/Logic/Icon/HonorIcon/P251.png
+- Assets/Logic/Icon/HonorIcon/P262.png
+- Assets/Logic/Icon/HonorIcon/HaveNo.png
+- Assets/Logic/Icon/HonorIcon/P221.png
+- Assets/Logic/Icon/HonorIcon/P150.png
+- Assets/Logic/Icon/HonorIcon/P242.png
+- Assets/Logic/Icon/HonorIcon/P213.png
+- Assets/Logic/Icon/HonorIcon/P231.png
+- Assets/Logic/Icon/HonorIcon/P160.png
+- Assets/Logic/Icon/HonorIcon/P223.png
+- Assets/Logic/Icon/HonorIcon/P253.png
+- Assets/Logic/Icon/HonorIcon/P241.png
+- Assets/Logic/Icon/HonorIcon/P120.png
+- Assets/Logic/Icon/HonorIcon/P263.png
+- Assets/Logic/Icon/HonorIcon/P140.png
+- Assets/Logic/Icon/HonorIcon/P233.png
+Dependencies: []

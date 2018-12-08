@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2142289395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 004332852241570bda10bcab775ad1d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Logic/Icon/SkinTypeIcon/_0003_\u4F20\u8BF4-\u62F7\u8D1D-2.png"
+- "Assets/Logic/Icon/SkinTypeIcon/_0001_\u4F20\u8BF4.png"
+- "Assets/Logic/Icon/SkinTypeIcon/_0002_\u4F20\u8BF4-\u62F7\u8D1D.png"
+- "Assets/Logic/Icon/SkinTypeIcon/_0000_\u4F20\u8BF4-\u62F7\u8D1D-3.png"
+- "Assets/Logic/Icon/SkinTypeIcon/_0004_\u4F20\u8BF4-\u62F7\u8D1D-4.png"
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 766547071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88080a9d6da1ae23a60cf7f5585fc5b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/ShopPost/P2.png
+- Assets/Logic/Icon/ShopPost/P1.png
+Dependencies: []

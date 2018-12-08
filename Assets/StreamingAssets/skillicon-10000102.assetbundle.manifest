@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3428242382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4cc11206b6915e8cf6375091b39b9a91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/SkillIcon/10000102/I20120431.png
+- Assets/Logic/Icon/SkillIcon/10000102/I20120440.png
+- Assets/Logic/Icon/SkillIcon/10000102/I20120421.png
+- Assets/Logic/Icon/SkillIcon/10000102/I20120411.png
+Dependencies: []

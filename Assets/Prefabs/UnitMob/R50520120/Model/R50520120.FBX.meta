@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 56532fe0066e40b4d87bf0dc8028d892
+timeCreated: 1461593072
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B Hair01
+    100002: B Hair02
+    100004: B Hair03
+    100006: Bip
+    100008: Body
+    100010: Chest
+    100012: Finger11
+    100014: Finger12
+    100016: Head
+    100018: Hips
+    100020: L Finger0
+    100022: L Finger01
+    100024: L Finger02
+    100026: L Finger1
+    100028: L Foot
+    100030: L Hair01
+    100032: L Hair02
+    100034: L Hair03
+    100036: L Hand
+    100038: L HorseLink
+    100040: L Lower Arm
+    100042: L Lower Leg
+    100044: L Shoulder
+    100046: L Toes
+    100048: L Upper Arm
+    100050: L Upper Leg
+    100052: Neck
+    100054: R Finger0
+    100056: R Finger01
+    100058: R Finger02
+    100060: R Finger1
+    100062: R Finger11
+    100064: R Finger12
+    100066: R Foot
+    100068: R Hair01
+    100070: R Hair02
+    100072: R Hair03
+    100074: R Hand
+    100076: R HorseLink
+    100078: R Lower Arm
+    100080: R Lower Leg
+    100082: R Shoulder
+    100084: R Toes
+    100086: R Upper Arm
+    100088: R Upper Leg
+    100090: R Weapon Anchor
+    100092: //RootNode
+    100094: Spine
+    100096: Weapon
+    400000: B Hair01
+    400002: B Hair02
+    400004: B Hair03
+    400006: Bip
+    400008: Body
+    400010: Chest
+    400012: Finger11
+    400014: Finger12
+    400016: Head
+    400018: Hips
+    400020: L Finger0
+    400022: L Finger01
+    400024: L Finger02
+    400026: L Finger1
+    400028: L Foot
+    400030: L Hair01
+    400032: L Hair02
+    400034: L Hair03
+    400036: L Hand
+    400038: L HorseLink
+    400040: L Lower Arm
+    400042: L Lower Leg
+    400044: L Shoulder
+    400046: L Toes
+    400048: L Upper Arm
+    400050: L Upper Leg
+    400052: Neck
+    400054: R Finger0
+    400056: R Finger01
+    400058: R Finger02
+    400060: R Finger1
+    400062: R Finger11
+    400064: R Finger12
+    400066: R Foot
+    400068: R Hair01
+    400070: R Hair02
+    400072: R Hair03
+    400074: R Hand
+    400076: R HorseLink
+    400078: R Lower Arm
+    400080: R Lower Leg
+    400082: R Shoulder
+    400084: R Toes
+    400086: R Upper Arm
+    400088: R Upper Leg
+    400090: R Weapon Anchor
+    400092: //RootNode
+    400094: Spine
+    400096: Weapon
+    2300000: Weapon
+    3300000: Weapon
+    4300000: Body
+    4300002: Weapon
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

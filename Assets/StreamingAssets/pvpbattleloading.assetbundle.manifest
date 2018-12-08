@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3380412590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 505cf5c0c1077947b14bd36f90e40463
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c7fcfdb14121e37e05d501e833e644d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-4.png
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-2.png
+- Assets/Logic/M021/PVPBattleLoading/Texture/M021-ZX-Texture-BG.png
+- Assets/Logic/M021/PVPBattleLoading/PVPBattleLoadingPanel.prefab
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-5.png
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-1.png
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-3.png
+Dependencies:
+- h:/downloads/archive-ceb4/moba mobile mmo project/client.ntg/client.ntg/assets/StreamingAssets/fonts.assetbundle

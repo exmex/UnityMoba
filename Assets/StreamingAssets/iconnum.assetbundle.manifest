@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3471015038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 774368e963273f438289c62ae46c60bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/NumIcon/IconNum_9.png
+- Assets/Logic/Icon/NumIcon/IconNum_2.png
+- Assets/Logic/Icon/NumIcon/IconNum_7.png
+- Assets/Logic/Icon/NumIcon/IconNum_3.png
+- Assets/Logic/Icon/NumIcon/IconNum_8.png
+- Assets/Logic/Icon/NumIcon/IconNum_5.png
+- Assets/Logic/Icon/NumIcon/IconNum_0.png
+- Assets/Logic/Icon/NumIcon/IconNum_4.png
+- Assets/Logic/Icon/NumIcon/IconNum_6.png
+- Assets/Logic/Icon/NumIcon/IconNum_1.png
+Dependencies: []

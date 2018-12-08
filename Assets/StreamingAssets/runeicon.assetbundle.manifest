@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 1160281304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b7349b979203068c46e56f6a0255635
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/RuneIcon/I13014312.png
+- Assets/Logic/Icon/RuneIcon/I13012206.png
+- Assets/Logic/Icon/RuneIcon/I13011414.png
+- Assets/Logic/Icon/RuneIcon/I13012410.png
+- Assets/Logic/Icon/RuneIcon/I13036510.png
+- Assets/Logic/Icon/RuneIcon/I13022424.png
+- Assets/Logic/Icon/RuneIcon/I13031101.png
+- Assets/Logic/Icon/RuneIcon/I13023530.png
+- Assets/Logic/Icon/RuneIcon/I13011310.png
+- Assets/Logic/Icon/RuneIcon/I13031405.png
+- Assets/Logic/Icon/RuneIcon/I13023421.png
+- Assets/Logic/Icon/RuneIcon/I13012511.png
+- Assets/Logic/Icon/RuneIcon/I13014416.png
+- Assets/Logic/Icon/RuneIcon/I13011309.png
+- Assets/Logic/Icon/RuneIcon/I13028314.png
+- Assets/Logic/Icon/RuneIcon/I13031507.png
+- Assets/Logic/Icon/RuneIcon/I13028108.png
+- Assets/Logic/Icon/RuneIcon/I13037408.png
+- Assets/Logic/Icon/RuneIcon/I13012104.png
+- Assets/Logic/Icon/RuneIcon/I13031503.png
+- Assets/Logic/Icon/RuneIcon/I13015512.png
+- Assets/Logic/Icon/RuneIcon/I13011208.png
+- Assets/Logic/Icon/RuneIcon/I13027212.png
+- Assets/Logic/Icon/RuneIcon/I13031402.png
+- Assets/Logic/Icon/RuneIcon/I13031102.png
+- Assets/Logic/Icon/RuneIcon/I13031502.png
+- Assets/Logic/Icon/RuneIcon/I13024419.png
+- Assets/Logic/Icon/RuneIcon/I13022420.png
+- Assets/Logic/Icon/RuneIcon/I13031302.png
+- Assets/Logic/Icon/RuneIcon/I13022423.png
+- Assets/Logic/Icon/RuneIcon/I13021422.png
+- Assets/Logic/Icon/RuneIcon/I13026211.png
+- Assets/Logic/Icon/RuneIcon/I13012514.png
+- Assets/Logic/Icon/RuneIcon/I13015413.png
+- Assets/Logic/Icon/RuneIcon/I13031504.png
+- Assets/Logic/Icon/RuneIcon/I13023524.png
+- Assets/Logic/Icon/RuneIcon/I13037202.png
+- Assets/Logic/Icon/RuneIcon/I13021525.png
+- Assets/Logic/Icon/RuneIcon/I13037509.png
+- Assets/Logic/Icon/RuneIcon/I13037407.png
+- Assets/Logic/Icon/RuneIcon/I13011517.png
+- Assets/Logic/Icon/RuneIcon/I13014106.png
+- Assets/Logic/Icon/RuneIcon/I13036204.png
+- Assets/Logic/Icon/RuneIcon/I13036404.png
+- Assets/Logic/Icon/RuneIcon/I13023418.png
+- Assets/Logic/Icon/RuneIcon/I13023209.png
+- Assets/Logic/Icon/RuneIcon/I13024528.png
+- Assets/Logic/Icon/RuneIcon/I13023316.png
+- Assets/Logic/Icon/RuneIcon/I13024109.png
+- Assets/Logic/Icon/RuneIcon/I13021315.png
+- Assets/Logic/Icon/RuneIcon/I13026527.png
+- Assets/Logic/Icon/RuneIcon/I13012311.png
+- Assets/Logic/Icon/RuneIcon/I13023417.png
+- Assets/Logic/Icon/RuneIcon/I13023529.png
+- Assets/Logic/Icon/RuneIcon/I13012415.png
+- Assets/Logic/Icon/RuneIcon/I13011207.png
+- Assets/Logic/Icon/RuneIcon/I13012205.png
+- Assets/Logic/Icon/RuneIcon/I13023521.png
+- Assets/Logic/Icon/RuneIcon/I13036103.png
+- Assets/Logic/Icon/RuneIcon/I13015513.png
+- Assets/Logic/Icon/RuneIcon/I13037305.png
+- Assets/Logic/Icon/RuneIcon/I13031508.png
+- Assets/Logic/Icon/RuneIcon/I13031306.png
+- Assets/Logic/Icon/RuneIcon/I13031203.png
+- Assets/Logic/Icon/RuneIcon/I13012105.png
+- Assets/Logic/Icon/RuneIcon/I13014520.png
+- Assets/Logic/Icon/RuneIcon/I13031501.png
+- Assets/Logic/Icon/RuneIcon/I13036401.png
+- Assets/Logic/Icon/RuneIcon/I13031201.png
+- Assets/Logic/Icon/RuneIcon/I13013516.png
+- Assets/Logic/Icon/RuneIcon/I13015308.png
+- Assets/Logic/Icon/RuneIcon/I13011519.png
+- Assets/Logic/Icon/RuneIcon/I13022318.png
+- Assets/Logic/Icon/RuneIcon/I13036303.png
+- Assets/Logic/Icon/RuneIcon/I13012518.png
+- Assets/Logic/Icon/RuneIcon/I13032506.png
+- Assets/Logic/Icon/RuneIcon/I13023210.png
+- Assets/Logic/Icon/RuneIcon/I13012515.png
+- Assets/Logic/Icon/RuneIcon/I13028313.png
+- Assets/Logic/Icon/RuneIcon/I13028107.png
+- Assets/Logic/Icon/RuneIcon/I13031406.png
+- Assets/Logic/Icon/RuneIcon/I13031403.png
+- Assets/Logic/Icon/RuneIcon/I13031304.png
+- Assets/Logic/Icon/RuneIcon/I13015307.png
+- Assets/Logic/Icon/RuneIcon/I13021317.png
+- Assets/Logic/Icon/RuneIcon/I13011412.png
+- Assets/Logic/Icon/RuneIcon/I13012411.png
+- Assets/Logic/Icon/RuneIcon/I13022523.png
+- Assets/Logic/Icon/RuneIcon/I13012409.png
+- Assets/Logic/Icon/RuneIcon/I13021526.png
+- Assets/Logic/Icon/RuneIcon/I13023522.png
+- Assets/Logic/Icon/RuneIcon/I13031301.png
+- Assets/Logic/Icon/RuneIcon/I13037505.png
+Dependencies: []

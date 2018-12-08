@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3734905384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d6d63f4ee97e53441de59464a03ae04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc0a2c27055b45c2e686eed85f3b2793
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/Icon/ItemIcon/I15090001.png
+- Assets/Logic/Icon/ItemIcon/I15010001.png
+- Assets/Logic/Icon/ItemIcon/I15110002.png
+- Assets/Logic/Icon/ItemIcon/I15110008.png
+- Assets/Logic/Icon/ItemIcon/I15050001.png
+- Assets/Logic/Icon/ItemIcon/I15050002.png
+- Assets/Logic/Icon/ItemIcon/I15020001.png
+- Assets/Logic/Icon/ItemIcon/I15110001.png
+- Assets/Logic/Icon/ItemIcon/Activity.png
+- Assets/Logic/Icon/ItemIcon/I15110006.png
+- Assets/Logic/Icon/ItemIcon/I15110003.png
+- Assets/Logic/Icon/ItemIcon/I15100001.png
+- Assets/Logic/Icon/ItemIcon/I15110005.png
+- Assets/Logic/Icon/ItemIcon/Coin.png
+- Assets/Logic/Icon/ItemIcon/I15170001.png
+- Assets/Logic/Icon/ItemIcon/I15220001.png
+- Assets/Logic/Icon/ItemIcon/Exp.png
+- Assets/Logic/Icon/ItemIcon/I15110004.png
+- Assets/Logic/Icon/ItemIcon/I15110007.png
+- Assets/Logic/Icon/ItemIcon/I15210001.PNG
+- Assets/Logic/Icon/ItemIcon/Gem.png
+Dependencies: []

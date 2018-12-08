@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4287972895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da67cd37d3c01445a2d6109a23c4ee40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80729077cb39806c86b5c10073f074fb
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Show-Role.shader
+- Assets/Shaders/Show-RoleMobile.shader
+Dependencies: []

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2562957378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d726ff376589c448415c497b3d942d33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26f2c9fd8bac5aea093fbb4e994743ac
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Logic/M022/AniamtorOld/JumpImage/damage3.anim
+- Assets/Logic/M022/AniamtorOld/NTGUIButton.anim
+- Assets/Logic/M022/AniamtorOld/CombatVictory.controller
+- Assets/Logic/M022/AniamtorOld/HeartLineMask.controller
+- Assets/Logic/M022/AniamtorOld/BattleUI/ReviveStart.anim
+- Assets/Logic/M022/AniamtorOld/CritNumber.anim
+- Assets/Logic/M022/AniamtorOld/GameStartCountDown.controller
+- Assets/Logic/M022/AniamtorOld/JumpImage/Normal.anim
+- Assets/Logic/M022/AniamtorOld/DurationState.anim
+- Assets/Logic/M022/AniamtorOld/ATKButton-Twinkle.anim
+- Assets/Logic/M022/AniamtorOld/CombatVictory.anim
+- Assets/Logic/M022/AniamtorOld/DurationStateOver.anim
+- Assets/Logic/M022/AniamtorOld/HeartBeatLine.anim
+- Assets/Logic/M022/AniamtorOld/UBattle-Waring-Bg.anim
+- Assets/Logic/M022/AniamtorOld/JumpImage/damageMiss.anim
+- Assets/Logic/M022/AniamtorOld/UBattle-Waring-Bg.controller
+- Assets/Logic/M022/AniamtorOld/BattleUI/BattleUINormalState.anim
+- Assets/Logic/M022/AniamtorOld/ContinuousDisplay.anim
+- Assets/Logic/M022/AniamtorOld/JumpImage/recover.anim
+- Assets/Logic/M022/AniamtorOld/KillMessage.anim
+- Assets/Logic/M022/AniamtorOld/BreakageLevel.anim
+- Assets/Logic/M022/AniamtorOld/JumpImage/battleDamage.controller
+- Assets/Logic/M022/AniamtorOld/BattleUI/BattleStart.anim
+- Assets/Logic/M022/AniamtorOld/BattleUI/BattleUI.controller
+- Assets/Logic/M022/Animator/AnimatorMessage/Message.controller
+- Assets/Logic/M022/AniamtorOld/BreakageLevel.controller
+- Assets/Logic/M022/AniamtorOld/JumpImage/damage2.anim
+- Assets/Logic/M022/AniamtorOld/ATKButton-Twinkle.controller
+- Assets/Logic/M022/AniamtorOld/NTGUIButtonState.controller
+- Assets/Logic/M022/AniamtorOld/GameStartCountDown.anim
+Dependencies: []
